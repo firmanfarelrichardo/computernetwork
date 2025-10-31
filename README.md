@@ -35,11 +35,11 @@ Repository ini dibuat untuk:
 * **[📁 experiment 2/](./experiment-02)**
     * **Topik:** *(Build a Switch and Router Network)*
 * **[📁 experiment 3/](./experiment-03)**
-    * **Topik:** *(Contoh: Konfigurasi Dasar Router & Static Routing)*
+    * **Topik:** *(--)*
 * **[📁 experiment 4/](./experiment-04)**
-    * **Topik:** *(Contoh: Dynamic Routing - OSPF/RIP)*
+    * **Topik:** *(--)*
 * **[📁 experiment 5/](./experiment-05)**
-    * **Topik:** *(Contoh: Konfigurasi Server - DHCP, DNS, Web)*
+    * **Topik:** *(--)*
 * **📄 README.md**
 
 ---
