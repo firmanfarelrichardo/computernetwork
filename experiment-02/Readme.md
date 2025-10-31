@@ -1,4 +1,4 @@
-# Judul Percobaan: [Build a Switch and Router Network]
+# Judul Percobaan: Build a Switch and Router Network
 
 ## 👨‍💻 Identitas Mahasiswa
 - **Nama:** Firman Farel Richardo
