@@ -1,4 +1,4 @@
-# Judul Percobaan: [Isi Judul Lengkap Percobaan di Sini]
+# Judul Percobaan: [Basic Switch and End Device Configuration]
 
 ## 👨‍💻 Identitas Mahasiswa
 - **Nama:** Firman Farel Richardo
