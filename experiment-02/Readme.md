@@ -17,7 +17,7 @@ Berikut adalah tautan video yang mendemonstrasikan proses konfigurasi dan hasil 
 ## 📁 File Konfigurasi (.pkt)
 File simulasi jaringan (.pkt) yang digunakan untuk percobaan ini dapat diakses pada tautan berikut. File ini berisi seluruh topologi dan konfigurasi yang telah selesai.
 
-- **[NamaFilePercobaan.pkt](./experiment-02.pkt)**
+- **[Build a Switch and Router Network.pkt](./experiment-02.pkt)**
 
 ---
 
