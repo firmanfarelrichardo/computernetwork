@@ -10,7 +10,7 @@
 ## 📺 Demonstrasi YouTube
 Berikut adalah tautan video yang mendemonstrasikan proses konfigurasi dan hasil akhir dari percobaan ini.
 
-➡️ **[Tonton Video Demonstrasi di YouTube](https://youtu.be/qXFIdueuPKE)**
+➡️ **[Video Demonstrasi Percobaan di Youtube](https://youtu.be/qXFIdueuPKE)**
 
 ---
 
