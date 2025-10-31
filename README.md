@@ -40,7 +40,7 @@ Repository ini dibuat untuk:
     * **Topik:** *(Contoh: Dynamic Routing - OSPF/RIP)*
 * **[📁 experiment 5/](./experiment-05)**
     * **Topik:** *(Contoh: Konfigurasi Server - DHCP, DNS, Web)*
-* **[📄 README.md]**
+* **📄 README.md**
 
 ---
 
