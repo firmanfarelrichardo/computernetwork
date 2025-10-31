@@ -1,4 +1,4 @@
-# 🧩 Praktikum Jaringan Komputer
+# Praktikum Jaringan Komputer
 
 Repository ini berisi kumpulan **tugas, laporan, dan aktivitas praktikum** yang berkaitan dengan mata kuliah **Jaringan Komputer**.  
 Seluruh isi repository ini bertujuan untuk mendokumentasikan hasil pembelajaran, implementasi konfigurasi jaringan, serta eksperimen yang dilakukan selama praktikum berlangsung.
