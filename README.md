@@ -30,16 +30,17 @@ Repository ini dibuat untuk:
 ---
 
 ## 📁 Struktur Repository
-📂 Praktikum-Jaringan-Komputer
-┣ 📁 experiment 1
-┣ 📁 experiment 2
-┣ 📁 experiment 3
-┣ 📁 experiment 4
-┣ 📁 experiment 5
-┗ 📄 README.md
-
-yaml
-Salin kode
+* **[📁 experiment 1/](./experiment-01)**
+    * **Topik:** *(Contoh: Pengenalan Jaringan & Topologi Dasar)*
+* **[📁 experiment 2/](./experiment-02)**
+    * **Topik:** *(Contoh: Pengkabelan & Subnetting)*
+* **[📁 experiment 3/](./experiment-03)**
+    * **Topik:** *(Contoh: Konfigurasi Dasar Router & Static Routing)*
+* **[📁 experiment 4/](./experiment-04)**
+    * **Topik:** *(Contoh: Dynamic Routing - OSPF/RIP)*
+* **[📁 experiment 5/](./experiment-05)**
+    * **Topik:** *(Contoh: Konfigurasi Server - DHCP, DNS, Web)*
+* **[📄 README.md](./README.md)**
 
 ---
 
