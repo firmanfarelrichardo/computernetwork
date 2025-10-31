@@ -31,16 +31,16 @@ Repository ini dibuat untuk:
 
 ## 📁 Struktur Repository
 * **[📁 experiment 1/](./experiment-01)**
-    * **Topik:** *(Contoh: Pengenalan Jaringan & Topologi Dasar)*
+    * **Topik:** *(Basic Switch and End Device Configuration)*
 * **[📁 experiment 2/](./experiment-02)**
-    * **Topik:** *(Contoh: Pengkabelan & Subnetting)*
+    * **Topik:** *(Build a Switch and Router Network)*
 * **[📁 experiment 3/](./experiment-03)**
     * **Topik:** *(Contoh: Konfigurasi Dasar Router & Static Routing)*
 * **[📁 experiment 4/](./experiment-04)**
     * **Topik:** *(Contoh: Dynamic Routing - OSPF/RIP)*
 * **[📁 experiment 5/](./experiment-05)**
     * **Topik:** *(Contoh: Konfigurasi Server - DHCP, DNS, Web)*
-* **[📄 README.md](./README.md)**
+* **[📄 README.md]**
 
 ---
 
