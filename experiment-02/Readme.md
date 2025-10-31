@@ -10,14 +10,14 @@
 ## 📺 Demonstrasi YouTube
 Berikut adalah tautan video yang mendemonstrasikan proses konfigurasi dan hasil akhir dari percobaan ini.
 
-➡️ **[Tonton Video Demonstrasi di YouTube](https.youtube.com/watch?v=xxxxxxxx)**
+➡️ **[Tonton Video Demonstrasi di YouTube](https://youtu.be/qXFIdueuPKE)**
 
 ---
 
 ## 📁 File Konfigurasi (.pkt)
 File simulasi jaringan (.pkt) yang digunakan untuk percobaan ini dapat diakses pada tautan berikut. File ini berisi seluruh topologi dan konfigurasi yang telah selesai.
 
-- **[NamaFilePercobaan.pkt](./NamaFilePercobaan.pkt)**
+- **[NamaFilePercobaan.pkt](./Build a Switch and Router Network.pkt)**
 
 ---
 
@@ -25,16 +25,16 @@ File simulasi jaringan (.pkt) yang digunakan untuk percobaan ini dapat diakses p
 Berikut adalah dokumentasi visual dari langkah-langkah penting dan hasil akhir dari percobaan ini.
 
 ### 1. Desain Topologi Jaringan
-![Desain Topologi Jaringan](./screenshot/01-topologi.png)
+![Desain Topologi Jaringan](./screenshot/Topologi.png)
 
-### 2. Konfigurasi IP Address (Contoh)
-![Konfigurasi IP PC-0](./screenshot/02-konfigurasi-ip.png)
+### 2. Tes Ping PC-A
+![Konfigurasi IP PC-0](./screenshot/PC-A.png)
 
-### 3. Pengujian Konektivitas (Ping)
-![Hasil Ping PC-0 ke PC-1](./screenshot/03-hasil-ping-1.png)
+### 3. Tes Ping PC-B
+![Hasil Ping PC-0 ke PC-1](./screenshot/PC-B.png)
 
-### 4. Pengujian Konektivitas Antar Jaringan
-![Hasil Ping PC-0 ke PC-2](./screenshot/04-hasil-ping-antar-jaringan.png)
+### 4. Tes Ping Switch S1
+![Hasil Ping PC-0 ke PC-2](./screenshot/Switch.png)
 
-### 5. Pengecekan Tabel Routing (Jika Ada)
-![Tabel Routing R-0](./screenshot/05-tabel-routing.png)
+### 5. Tes Ping Router R1
+![Tabel Routing R-0](./screenshot/Router.png)
