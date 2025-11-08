@@ -17,7 +17,7 @@ Berikut adalah tautan video yang mendemonstrasikan proses konfigurasi dan hasil 
 ## 📁 File Konfigurasi (.pkt)
 File simulasi jaringan (.pkt) yang digunakan untuk percobaan ini dapat diakses pada tautan berikut. File ini berisi seluruh topologi dan konfigurasi yang telah selesai.
 
-- **[NamaFilePercobaan.pkt](./NamaFilePercobaan.pkt)**
+- **[NamaFilePercobaan.pkt](./final-assignment.pkt)**
 
 ---
 
@@ -25,16 +25,11 @@ File simulasi jaringan (.pkt) yang digunakan untuk percobaan ini dapat diakses p
 Berikut adalah dokumentasi visual dari langkah-langkah penting dan hasil akhir dari percobaan ini.
 
 ### 1. Desain Topologi Jaringan
-![Desain Topologi Jaringan](./screenshot/01-topologi.png)
+![Desain Topologi Jaringan](./screenshot/topologi.png)
 
-### 2. Konfigurasi IP Address (Contoh)
-![Konfigurasi IP PC-0](./screenshot/02-konfigurasi-ip.png)
+### 2. Pengujian Konektivitas (Ping)
+![Hasil Check Ping](./screenshot/cekping1.png)
 
-### 3. Pengujian Konektivitas (Ping)
-![Hasil Ping PC-0 ke PC-1](./screenshot/03-hasil-ping-1.png)
+![Hasil Check Ping](./screenshot/cekping2.png)
 
-### 4. Pengujian Konektivitas Antar Jaringan
-![Hasil Ping PC-0 ke PC-2](./screenshot/04-hasil-ping-antar-jaringan.png)
-
-### 5. Pengecekan Tabel Routing (Jika Ada)
-![Tabel Routing R-0](./screenshot/05-tabel-routing.png)
+![Hasil Check Ping](./screenshot/cekping3.png)
